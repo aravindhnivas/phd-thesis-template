@@ -5,3 +5,5 @@
 *.out
 *.toc
 dissertation.pdf
+*.synctex(busy)
+*.fdb_latexmk
